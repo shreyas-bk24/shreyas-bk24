@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a developer and currently working on my own project Trading application using RUST language<br>And learning the new technologies<br>working  in a private company<br>Lives in Bangalore
+I'm a fullstack developer<br>
+currently working on my own project "Trading application using RUST"<br>And learning the new technologies<br>working  in a private company<br>Lives in Bangalore
 
 
 ## 🌐 Socials:
